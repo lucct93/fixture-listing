@@ -1,0 +1,6 @@
+typeorm:
+  host: TYPEORM_HOST
+  port: TYPEORM_PORT
+  database: TYPEORM_DATABASE
+  username: TYPEORM_USERNAME
+  password: TYPEORM_PASSWORD
