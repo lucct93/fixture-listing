@@ -49,7 +49,7 @@ What things you need to install
         Credential above is default. 
         You can revise it in config directory (config/default.yaml)
     3. Install dependencies: `yarn`
-    4. Start service at port 3007: `yarn start:dev`
+    4. Start service at port 3000: `yarn start:dev`
 
 ## Usage
 - Main site: http://localhost:3000
