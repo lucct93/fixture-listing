@@ -21,7 +21,7 @@ only dates with matches.
 
     - NestJs / TypeORM
     - NextJS
-    - MySQL
+    - MySQL 8.0
     - Jest / Cypress
     - Additional: Husky / Pretty
 ### Prerequisites
