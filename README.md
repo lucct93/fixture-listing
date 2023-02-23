@@ -53,7 +53,7 @@ What things you need to install
 
 ## Usage
 - Main site: http://localhost:3000
-- Swagger url: http://localhost:3000/docs/fixtures
+- Swagger url: http://localhost:3000/docs/fixture
 
 You can also use my deployed doc at https://fixtures.jobfi.vn/docs/fixture
 
